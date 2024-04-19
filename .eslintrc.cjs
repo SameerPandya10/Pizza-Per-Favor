@@ -17,5 +17,4 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
-  "react-refresh": "off",
 };
